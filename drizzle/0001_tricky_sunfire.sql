@@ -1,0 +1,1 @@
+ALTER TABLE `workspaces` DROP INDEX `workspaces_user_idx`;

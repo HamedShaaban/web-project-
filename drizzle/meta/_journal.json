@@ -1,0 +1,27 @@
+{
+  "version": "7",
+  "dialect": "mysql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1789733374061,
+      "tag": "0000_smart_fantastic_four",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "5",
+      "when": 1789733430828,
+      "tag": "0001_tricky_sunfire",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "5",
+      "when": 1789733807318,
+      "tag": "0002_dear_thunderbolts",
+      "breakpoints": true
+    }
+  ]
+}
